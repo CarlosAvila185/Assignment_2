@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="press_here">Press Here!</string>
+    <string name="title">Temperature Converter</string>
+    <string name="title2">Select your conversion</string>
+    <string name="button">Convert!</string>
+    <string name="hint1">Enter temperature</string>
+    <string name="title3">Result: </string>
+    <string name="result"></string>
+    <string-array name="spinner1">
+        <item>Celcius to Farenheit</item>
+        <item>Farenheit to Celcius</item>
+    </string-array>
+</resources>
